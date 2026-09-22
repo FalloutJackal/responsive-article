@@ -8,7 +8,7 @@ For my first independent challenge, I created a responsive editorial article to 
 
 The design uses typographic hierarchy, fluid font sizes, pseudo-elements, custom properties, and structural selectors.
 
-You can find the Challenge [Here](../responsive-article/CHALLENGE.md).
+You can find the Challenge [Here](CHALLENGE.md).
 
 ---
 
@@ -130,4 +130,4 @@ By submitting a contribution, you agree that your contribution may be distribute
 
 ## License
 
-This project — including its source code, documentation, and article text is available under the [MIT License](../responsive-article/LICENSE).
+This project — including its source code, documentation, and article text is available under the [MIT License](LICENSE).
