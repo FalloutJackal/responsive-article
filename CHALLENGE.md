@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # Responsive Editorial Article Challenge
 
 ## Challenge Overview

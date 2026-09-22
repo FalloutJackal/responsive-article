@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # Independent Challenge #1
 
 ## Responsive editorial article
